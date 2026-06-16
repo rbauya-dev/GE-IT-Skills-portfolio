@@ -2,13 +2,7 @@
 
 # 🛠️ Welcome to My Creative & Research Repository
 
-┌────────────────────────────────────────────────────────┐
-│  DATA SCIENCE  │  BIOINFORMATICS  │  PUBLIC INNOVATION │
-└────────────────────────────────────────────────────────┘
-
 > **Tagline:** "Turning spontaneous data into Viable insights to Feasible solutions."
-
----
 
 ## 👤 Professional Bio
 
