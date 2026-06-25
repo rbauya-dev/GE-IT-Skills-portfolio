@@ -25,9 +25,9 @@ Explore the repository by clicking on any of the files below. All links are dire
   * [📄 Bauya_Prototype.docx](./media/Bauya_Prototype.docx)
   * [📄 Bauya_Video.docx](./media/Bauya_Video.docx)
   * [📄 fordelete](./media/fordelete)
-* **📁 Prompts/** - *Raw outputs from generative AI modeling*
-  * [🖼️ Code_Generated_Image (2).png](./Prompts/Code_Generated_Image%20(2).png)
-  * [🖼️ Code_Generated_Image (3).png](./Prompts/Code_Generated_Image%20(3).png)
+* **📁 prompt_outputs/** - *Raw outputs from generative AI modeling*
+  * [🖼️ Code_Generated_Image (2).png](./prompt_outputs/Code_Generated_Image%20(2).png)
+  * [🖼️ Code_Generated_Image (3).png](./prompt_outputs/Code_Generated_Image%20(3).png)
   * [🖼️ Gemini_Generated_Image_vf56o.png](./Prompts/Gemini_Generated_Image_vf56o.png)
 * **📁 prompt_engineering/** - *Strategies and critiques for AI interactions*
   * [📄 AI_Research_and_Data_Analysis.md](./prompt_engineering/AI_Research_and_Data_Analysis.md)
