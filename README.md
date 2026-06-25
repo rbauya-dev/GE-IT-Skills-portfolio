@@ -69,7 +69,7 @@ Here is a quick look at my primary promotional materials:
 ## 🛠️ Tech & Tools Stack
 
 * **Core Competencies:** Data Integration, High-Throughput Data Analysis (NGS), Biostatistics & Machine Learning
-* **Languages & Systems:** Python (`pandas`), R Programming (`gganimate`), AWS Cloud Architecture, $\LaTeX$
+* **Languages & Systems:** Python (`pandas`), R Programming (`gganimate`), AWS Cloud Architecture
 * **Brand Colors:** * ⬛ Dark Grey Red (`#2E1F1E`)
   * 🟥 Crimson Red (`#7B1E19`)
   * 🟪 Light Lavender (`#D2CAD8`)
