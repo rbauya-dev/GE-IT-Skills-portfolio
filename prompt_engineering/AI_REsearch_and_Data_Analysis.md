@@ -10,10 +10,10 @@
 #### 2. Visualizations Generated
 
 **Distribution of Income by Churn Status**
-![Distribution of Income by Churn Status](https://github.com/rbauya-dev/GE-IT-Skills-portfolio/blob/main/Prompts/Code_Generated_Image%20(3).png?raw=true)
+![Churn Status](https://github.com/rbauya-dev/GE-IT-Skills-portfolio/blob/main/prompt_outputs/Code_Generated_Image%20(3).png?raw=true)
 
 **Distribution of Mean Revenue by Churn Status**
-![Distribution of Mean Revenue by Churn Status](https://github.com/rbauya-dev/GE-IT-Skills-portfolio/blob/main/Prompts/Code_Generated_Image%20(2).png?raw=true)
+![Churn Revenue](https://github.com/rbauya-dev/GE-IT-Skills-portfolio/blob/main/prompt_outputs/Code_Generated_Image%20(2).png?raw=true)
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 "The data charts highlight a critical insight: there is minimal observable difference in income distribution between customers who churn and those who remain. Similarly, while mean revenue distributions appear largely identical across both groups, the presence of extreme outliers in the churned segment (as seen in the revenue chart) suggests that high-value customers might be churning due to specific, non-income-related service failures.
