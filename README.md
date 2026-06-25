@@ -24,7 +24,6 @@ Explore the repository by clicking on any of the files below. All links are dire
 * **📁 media/** - *Presentations and prototype models*
   * [📄 Bauya_Prototype.docx](./media/Bauya_Prototype.docx)
   * [📄 Bauya_Video.docx](./media/Bauya_Video.docx)
-  * [📄 fordelete](./media/fordelete)
 * **📁 prompt_outputs/** - *Raw outputs from generative AI modeling*
   * [🖼️ Code_Generated_Image (2).png](./prompt_outputs/Code_Generated_Image%20(2).png)
   * [🖼️ Code_Generated_Image (3).png](./prompt_outputs/Code_Generated_Image%20(3).png)
