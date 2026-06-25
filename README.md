@@ -46,10 +46,25 @@ A neural networks-based machine learning application engineered to predict dengu
 
 * **Design Reflection:** The interface and visualization pipeline prioritize epidemiological clarity by translating complex neural network predictions into intuitive, color-coded risk maps. High-contrast line graphs and geographic overlays are implemented to help public health officials quickly identify projected outbreaks and resource allocation needs. By structuring the dashboard around key metrics like regional transmission rates and predictive confidence intervals, the design minimizes cognitive friction during high-stakes decision-making.
 
-### 2. Aegis (AWS Mindanao Cup)
+### 2. Aegis 
 An upcoming cloud-native application designed for the DPWH Infrastructure Transparency Report to enhance accountability and public monitoring.
 
 * **Design Reflection:** The architecture layout and user interface utilize a highly organized data-table hierarchy and interactive geographic information system (GIS) tracking to display public works progress transparently. A clean color palette featuring deep, authoritative red tones balanced with light lavender fills ensures accessibility and a professional, secure aesthetic. The layout choices emphasize real-time data flow, allowing citizens and auditors alike to seamlessly navigate budget allocations, timelines, and deployment metrics.
+
+### 3. Core Branding & Identity
+The visual identity materials engineered to establish a distinct professional footprint across technical and research sectors.
+
+* **Design Reflection:** The brand system balances academic credibility with modern design principles by contrasting striking red tones against a clean lavender background. Utilizing red evokes the urgent, clinical, and data-driven nature of genomic research, while the soft light lavender provides optimal readability and modern balance. The resulting visual footprint projects a professional, secure, and memorable aesthetic tailored for cross-disciplinary collaboration.
+
+### 4. Data-Driven Infographics
+Visual research assets developed to simplify multi-omic datasets and cloud architecture frameworks for public and academic consumption.
+
+* **Design Reflection:** The infographic layouts focus on translating complex biological and statistical data into highly scannable, visual storytelling narratives. By employing clear structural hierarchies, minimalist typography, and purposeful white space, dense scientific concepts are made accessible without sacrificing academic accuracy. The deliberate alignment choices guide the reader's eye naturally from broad data inputs down to granular, actionable research insights.
+
+### 5. Media & Promotional Visuals
+A collection of professional media designs, including cross-platform promotional banners and interactive prototypes.
+
+* **Design Reflection:** Designed specifically for digital networking and interactive deployment, these assets maximize engagement through unified layout grids and strong focal points. The LinkedIn banner builds immediate professional authority through clean lines and data-centric visual structures, while the Instagram promotional posts use high-contrast text layers to maintain absolute legibility on mobile viewports. Every visual touchpoint deliberately integrates the core red and lavender palette to reinforce a cohesive digital brand identity.
 
 ---
 
@@ -69,8 +84,7 @@ Here is a quick look at my primary promotional materials:
 
 * **Core Competencies:** Data Integration, High-Throughput Data Analysis (NGS), Biostatistics & Machine Learning
 * **Languages & Systems:** Python (`pandas`), R Programming (`gganimate`), AWS Cloud Architecture
-* **Brand Colors:** * ⬛ Dark Grey Red (`#2E1F1E`)
-  * 🟥 Crimson Red (`#7B1E19`)
+* **Brand Colors:** * 🟥 Crimson Red (`#7B1E19`)
   * 🟪 Light Lavender (`#D2CAD8`)
 
 ---
